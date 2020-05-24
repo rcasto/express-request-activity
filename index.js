@@ -45,6 +45,4 @@ function requestActivity(config) {
     return _requestActivity;
 }
 
-module.exports = {
-    requestActivity
-};
+module.exports = requestActivity;
