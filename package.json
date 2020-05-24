@@ -1,7 +1,7 @@
 {
-  "name": "activity-led",
+  "name": "express-request-activity",
   "version": "1.0.0",
-  "description": "",
+  "description": "Turn light on/off based off of request activity, built targeting Raspberry Pi",
   "main": "index.js",
   "scripts": {
     "start": "node test/index.js"
