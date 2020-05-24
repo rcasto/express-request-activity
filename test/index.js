@@ -1,5 +1,5 @@
 const express = require('express');
-const requestActivity = require('../index').requestActivity;
+const requestActivity = require('../index');
 
 const app = express();
 const port = process.env.PORT || 3000;
