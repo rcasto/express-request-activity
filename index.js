@@ -22,7 +22,7 @@ const rpio = require('rpio');
 function requestActivity(config) {
     let requestDebounceTimeoutId = null;
 
-    rpio.open(config.lightPin, rpio.OUTPUT);
+    rpio.open(config.lightPin, rpio.OUTPUT, rpio.LOW);
 
     /**
      * 
