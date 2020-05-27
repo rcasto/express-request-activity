@@ -1,6 +1,6 @@
 {
   "name": "express-request-activity",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Turn light on/off based off of request activity, built targeting Raspberry Pi",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,8 @@
   },
   "author": "Richie Casto (https://github.com/rcasto)",
   "repository": {
-		"type": "git",
-		"url": "https://github.com/rcasto/express-request-activity.git"
+    "type": "git",
+    "url": "https://github.com/rcasto/express-request-activity.git"
   },
   "keywords": [
     "raspberry-pi",
@@ -18,7 +18,7 @@
     "expressjs",
     "express",
     "express-middleware"
-	],
+  ],
   "license": "MIT",
   "dependencies": {
     "rpio": "2.1.1"
