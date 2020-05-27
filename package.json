@@ -7,6 +7,18 @@
     "start": "node test/index.js"
   },
   "author": "Richie Casto (https://github.com/rcasto)",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/rcasto/express-request-activity.git"
+  },
+  "keywords": [
+    "raspberry-pi",
+    "raspberrypi",
+    "gpio",
+    "expressjs",
+    "express",
+    "express-middleware"
+	],
   "license": "MIT",
   "dependencies": {
     "rpio": "2.1.1"
